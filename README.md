@@ -7,7 +7,7 @@ Web App Developer
 I am a passionate software developer with a strong background in computer engineering and extensive experience in the design, development and implementation of innovative software solutions.
 
 * 🌍  I'm based in Argentina
-* 🧠  I'm learning Python
+* 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Projects for web pages or applications
 * ⚡  I am specializing in Java, along with its 2 most popular frameworks: Angular and Spring. With an architectural focus on Microservices.
 
